@@ -5465,5 +5465,110 @@
         "item_name": "Look back — AniPack#17",
         "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lFDsLy4zOiw85vQ",
         "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000916",
+        "item_type": "item",
+        "item_name": "Hi — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lETsLy4zzgoAv3A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000917",
+        "item_type": "item",
+        "item_name": "Grimace — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lEDsLy4xoyP_C4w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000918",
+        "item_type": "item",
+        "item_name": "Scared — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lHzsLy4xm79M43g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000919",
+        "item_type": "item",
+        "item_name": "Battle Stance — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lHjsLy4ybm_RRkQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000920",
+        "item_type": "item",
+        "item_name": "Shy — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFzsLy4wnxVrjHQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000921",
+        "item_type": "item",
+        "item_name": "Angry — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFjsLy4zx32f0uw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000922",
+        "item_type": "item",
+        "item_name": "Hot-Tempered — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFTsLy4zMiN8Nkw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000923",
+        "item_type": "item",
+        "item_name": "Eating — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFDsLy4xc2Kxrng",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000924",
+        "item_type": "item",
+        "item_name": "Evil Plans — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mEzsLy4w9jBgUUQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000925",
+        "item_type": "item",
+        "item_name": "Like — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mEjsLy4z19GuLeA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000926",
+        "item_type": "item",
+        "item_name": "Sad — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mETsLy4zrFChAQg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000927",
+        "item_type": "item",
+        "item_name": "Smirk — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mEDsLy4xtEsIFzQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000928",
+        "item_type": "item",
+        "item_name": "Love — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mHzsLy4yljI9ISA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000929",
+        "item_type": "item",
+        "item_name": "Cool Face — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mHjsLy4z1l_NOdw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000914",
+        "item_type": "item",
+        "item_name": "AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lEzsLy4zm1wkOqQ",
+        "gml_animated": false
     }
 ]
