@@ -173,5 +173,19 @@
         "item_name": "Capybara Background",
         "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlETsLy4zJ9aM1pA",
         "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000931",
+        "item_type": "item",
+        "item_name": "CB - Background #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0nFjsLy4ytTM-0tA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000932",
+        "item_type": "item",
+        "item_name": "CB - Mini Background #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0nFTsLy4yvupbrCA",
+        "gml_animated": false
     }
 ]
