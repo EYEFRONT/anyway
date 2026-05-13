@@ -2858,4 +2858,2745 @@
     {
         "itemdefid": "1100000796",
         "item_type": "item",
-        "item_name": 
+        "item_name": "Original | Broken Red sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prMtETsLy4xn0OmAMg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000797",
+        "item_type": "item",
+        "item_name": "AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prMtEDsLy4z5wENbyw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000799",
+        "item_type": "item",
+        "item_name": "Cry — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prMtHjsLy4xdwA7-wQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000800",
+        "item_type": "item",
+        "item_name": "Bleh — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkFzsLy4z3Jzx2Tg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000801",
+        "item_type": "item",
+        "item_name": "Egg — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkFjsLy4yMDvUpsg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000802",
+        "item_type": "item",
+        "item_name": "Sick — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkFTsLy4zcGj0UGA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000803",
+        "item_type": "item",
+        "item_name": "Yappie — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkFDsLy4zKPm_kNA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000804",
+        "item_type": "item",
+        "item_name": "Toilet — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkEzsLy4xm6YyKTQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000805",
+        "item_type": "item",
+        "item_name": "Like — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkEjsLy4yLT8BfHg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000806",
+        "item_type": "item",
+        "item_name": "Cinema — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkETsLy4w1LbdpgA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000807",
+        "item_type": "item",
+        "item_name": "Love — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkEDsLy4yDfmkhYQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000808",
+        "item_type": "item",
+        "item_name": "Peek — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkHzsLy4yJhByXjw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000809",
+        "item_type": "item",
+        "item_name": "ZzZz — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwkHjsLy4wESxH0lw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000810",
+        "item_type": "item",
+        "item_name": "Nerd — AniPack#13",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlFzsLy4w49NryTw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000811",
+        "item_type": "item",
+        "item_name": "Capybara",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlFjsLy4xjX5GqHQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000812",
+        "item_type": "item",
+        "item_name": "Capybara Background UNUSED",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlFTsLy4wBfKS8jA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000813",
+        "item_type": "item",
+        "item_name": "Capybara Mini Background",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlFDsLy4zXVtvOAw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000814",
+        "item_type": "item",
+        "item_name": "AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlEzsLy4zCvY85MA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000818",
+        "item_type": "item",
+        "item_name": "Capybara — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlHzsLy4zkRZ1XvQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000819",
+        "item_type": "item",
+        "item_name": "CapyCry — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlHjsLy4wOyfSexA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000820",
+        "item_type": "item",
+        "item_name": "CapyLike — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmFzsLy4xamxyb1w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000821",
+        "item_type": "item",
+        "item_name": "CapySleep — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmFjsLy4yBy4oxLg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000822",
+        "item_type": "item",
+        "item_name": "CapyLaught — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmFTsLy4wyPspJ0w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000823",
+        "item_type": "item",
+        "item_name": "CapyCcino — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmFDsLy4xF9gYFMw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000824",
+        "item_type": "item",
+        "item_name": "CapyNo — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmEzsLy4yU7K8XmQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000825",
+        "item_type": "item",
+        "item_name": "CapyRose — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmEjsLy4ybxOt_dg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000826",
+        "item_type": "item",
+        "item_name": "CapyHappy — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmETsLy4yfJUXGNg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000827",
+        "item_type": "item",
+        "item_name": "CappyHeart — AniPack#14",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmEDsLy4yH-pke_w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000828",
+        "item_type": "item",
+        "item_name": "AnyWay - Challenge #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmHzsLy4wIBlHm_A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000830",
+        "item_type": "item",
+        "item_name": "AnyWay - Echo Echelon",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnFzsLy4wv8C0LSQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000834",
+        "item_type": "item",
+        "item_name": "Fever | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnEzsLy4yCYO9YAg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000835",
+        "item_type": "item",
+        "item_name": "Eat | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnEjsLy4wrLCwU9A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000836",
+        "item_type": "item",
+        "item_name": "Happy | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnETsLy4z_g6rOEw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000837",
+        "item_type": "item",
+        "item_name": "Birthday | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnEDsLy4zK09YRWA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000838",
+        "item_type": "item",
+        "item_name": "Peace | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnHzsLy4zEe9XaCA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000839",
+        "item_type": "item",
+        "item_name": "Love | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnHjsLy4xlPCh_4A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000840",
+        "item_type": "item",
+        "item_name": "Hi | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgFzsLy4zX9iSpFg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000841",
+        "item_type": "item",
+        "item_name": "Mocking | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgFjsLy4y0Y79Hfg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000842",
+        "item_type": "item",
+        "item_name": "No | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgFTsLy4yuYf3rrQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000843",
+        "item_type": "item",
+        "item_name": "Yes | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgFDsLy4wvpj4KKA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000844",
+        "item_type": "item",
+        "item_name": "Run | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgEzsLy4xyp_rykA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000845",
+        "item_type": "item",
+        "item_name": "Proud | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgEjsLy4xo-drhDQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000846",
+        "item_type": "item",
+        "item_name": "Sad | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgETsLy4wypPleiA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000847",
+        "item_type": "item",
+        "item_name": "Yawn | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgEDsLy4zBCci8gw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000848",
+        "item_type": "item",
+        "item_name": "Yoga | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgHzsLy4wmcxov8A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000849",
+        "item_type": "item",
+        "item_name": "Sing | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwgHjsLy4zIVcht8Q",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000850",
+        "item_type": "item",
+        "item_name": "Shocked | Halloween 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwhFzsLy4xUiche9w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000855",
+        "item_type": "item",
+        "item_name": "AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwhEjsLy4wTl8a85A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000857",
+        "item_type": "item",
+        "item_name": "Tree — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwhEDsLy4z2EsFVXA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000858",
+        "item_type": "item",
+        "item_name": "Candy Cane — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwhHzsLy4yuwMJc5g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000859",
+        "item_type": "item",
+        "item_name": "Champagne — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwhHjsLy4x2q3ksFw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000860",
+        "item_type": "item",
+        "item_name": "Christmas — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiFzsLy4xWrzQePw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000861",
+        "item_type": "item",
+        "item_name": "Lights — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiFjsLy4ws93sKoQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000862",
+        "item_type": "item",
+        "item_name": "Cookie — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiFTsLy4zM_DCxKg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000863",
+        "item_type": "item",
+        "item_name": "Gift — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiFDsLy4zteRGMDw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000864",
+        "item_type": "item",
+        "item_name": "Letter — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiEzsLy4x28mmsgw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000865",
+        "item_type": "item",
+        "item_name": "Reindeer — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiEjsLy4wCFLfe8g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000866",
+        "item_type": "item",
+        "item_name": "Santa — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiETsLy4wt02jhVQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000867",
+        "item_type": "item",
+        "item_name": "Sleigh — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiEDsLy4zN_KElEw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000868",
+        "item_type": "item",
+        "item_name": "Snow — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiHzsLy4zcNMYahA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000869",
+        "item_type": "item",
+        "item_name": "Snowglobe — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwiHjsLy4x9WTSzPA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000870",
+        "item_type": "item",
+        "item_name": "Snowman — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjFzsLy4wibaIm7g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000871",
+        "item_type": "item",
+        "item_name": "Christmas Tree — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjFjsLy4xdUPQdaA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000872",
+        "item_type": "item",
+        "item_name": "Wreath — AniPack#15",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjFTsLy4wmZnz9sQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000873",
+        "item_type": "item",
+        "item_name": "AnyWay - Summer beach",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjFDsLy4wQgzldnQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000875",
+        "item_type": "item",
+        "item_name": "AnyWay - Rose Water",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjEjsLy4yDGAlA5g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000877",
+        "item_type": "item",
+        "item_name": "AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjEDsLy4zbIO0vJQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000879",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjHjsLy4xeoXR2EQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000880",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsFzsLy4yF7GUR4Q",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000881",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsFjsLy4wIlQjm7g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000882",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsFTsLy4wKDsjZoQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000883",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsFDsLy4wVedfa2g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000884",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsEzsLy4y3QvF9EQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000885",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsEjsLy4xPAsGchg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000886",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsETsLy4ws31z__g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000887",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsEDsLy4zwE0Xwmg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000888",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsHzsLy4xnbXvyMg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000889",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwsHjsLy4zP0oFe0A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000890",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtFzsLy4ziSdjr6Q",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000891",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtFjsLy4xLW6h6mQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000892",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtFTsLy4wY6CSOUg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000893",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtFDsLy4zyZEGP8A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000894",
+        "item_type": "item",
+        "item_name": "Kitty — AniPack#16",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtEzsLy4zqC80Bhg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1",
+        "item_type": "item",
+        "item_name": "!AnyWay! Developer",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6TYxoUa7MaQwOQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2",
+        "item_type": "item",
+        "item_name": "!AnyWay! Community Moderator",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6jYxoUbX_ZVNuQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "3",
+        "item_type": "item",
+        "item_name": "Thank you for contributing to the !AnyWay! community!",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6zYxoUZX4RW4Yw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "4",
+        "item_type": "item",
+        "item_name": "!AnyWay! Beta-Tester",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC7DYxoUZ6RuIvPw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "6",
+        "item_type": "item",
+        "item_name": "Blue crystal",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC7jYxoUYPffcdJg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "7",
+        "item_type": "item",
+        "item_name": "Purple crystal",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC7zYxoUZe9B6emw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "8",
+        "item_type": "item",
+        "item_name": "Red crystal",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC4DYxoUasq-5Iig",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "13",
+        "item_type": "item",
+        "item_name": "Anniversary Ticket Rev.0",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Stvv0-uLqo9IsY",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "98",
+        "item_type": "item",
+        "item_name": "Hand-Forging Event Coins '!AnyWay! Update 1.0.3.0'",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC4SBvv0-uY4tCDPQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "99",
+        "item_type": "item",
+        "item_name": "Event Coins '!AnyWay! Update 1.0.3.0'",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC4SFvv0-uEKH6yHQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "100",
+        "item_type": "item",
+        "item_name": "Event Coins '!AnyWay! Update 1.0.3.0'",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Shx4VGn8QZdFMtE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "101",
+        "item_type": "item",
+        "item_name": "Event Coins '!AnyWay! Update 1.0.3.0'",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Shw4VGn8e6Tg2YP",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "900",
+        "item_type": "item",
+        "item_name": "Event Coins '!AnyWay! Update 1.0.3.0' Resale.",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC4Shx4VGn8bAKxLYI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20201",
+        "item_type": "item",
+        "item_name": "Access Star",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xDn5upzpId6Il8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202",
+        "item_type": "item",
+        "item_name": "Rat! Lunar New Year 2020",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xPn5upzfWGF_1k",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20203",
+        "item_type": "item",
+        "item_name": "Finder's Fee Star",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xLn5upzWhQjpaw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202006",
+        "item_type": "item",
+        "item_name": "Bleh — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5prI6V3scpj1v2po",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202007",
+        "item_type": "item",
+        "item_name": "Happy — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5prM6V3sc7gnaz8I",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202008",
+        "item_type": "item",
+        "item_name": "Hype — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5prw6V3scAREYZhY",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202009",
+        "item_type": "item",
+        "item_name": "Smile — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pr06V3scJumI4DM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202010",
+        "item_type": "item",
+        "item_name": "Kawaii — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5p7Q6V3sch31BERE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202011",
+        "item_type": "item",
+        "item_name": "Sad — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5p7U6V3scbwhzahA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202012",
+        "item_type": "item",
+        "item_name": "UwU — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5p7Y6V3sceMhf01w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202013",
+        "item_type": "item",
+        "item_name": "Worried — AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5p7c6V3scu0xl_64",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202016",
+        "item_type": "item",
+        "item_name": "AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5p7I6V3scMYfJlAk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202022",
+        "item_type": "item",
+        "item_name": "Sad — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pLY6V3scjcLho0Y",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202023",
+        "item_type": "item",
+        "item_name": ">.< — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pLc6V3scdyWglsc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202024",
+        "item_type": "item",
+        "item_name": "Smile — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pLA6V3sca56PqWY",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202025",
+        "item_type": "item",
+        "item_name": "Neh — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pLE6V3scT73KwPs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202026",
+        "item_type": "item",
+        "item_name": "Bleh — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pLI6V3scpX3Yxk0",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202027",
+        "item_type": "item",
+        "item_name": "Poker face — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pLM6V3scL8_k4kk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202028",
+        "item_type": "item",
+        "item_name": "Double Swords Hero — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pLw6V3scYoU2jd8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202029",
+        "item_type": "item",
+        "item_name": "Shout — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pL06V3scuaIMSY0",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202030",
+        "item_type": "item",
+        "item_name": "Objection! — AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pbQ6V3scLgRoPuk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202034",
+        "item_type": "item",
+        "item_name": "Red sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pbA6V3scoAxGA3k",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202035",
+        "item_type": "item",
+        "item_name": "Orange sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pbE6V3scogW5wZA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202036",
+        "item_type": "item",
+        "item_name": "Brown sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pbI6V3scJfotdlU",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202037",
+        "item_type": "item",
+        "item_name": "Golden sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pbM6V3scX0TEBpw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202038",
+        "item_type": "item",
+        "item_name": "Dark-lime sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pbw6V3scMFJaAvk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202039",
+        "item_type": "item",
+        "item_name": "Azure sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5pb06V3scQCSCkuM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202040",
+        "item_type": "item",
+        "item_name": "Twilight blue sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orQ6V3scugWDvpE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202041",
+        "item_type": "item",
+        "item_name": "Dark green sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orU6V3scg2qT2-U",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202042",
+        "item_type": "item",
+        "item_name": "Twilight green sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orY6V3scCYJNbws",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202043",
+        "item_type": "item",
+        "item_name": "Twilight blue-green sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orc6V3scBum0Kjg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202044",
+        "item_type": "item",
+        "item_name": "Dark azure sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orA6V3scSA7PblI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202045",
+        "item_type": "item",
+        "item_name": "Vinous sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orE6V3sc2s2VVDM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202046",
+        "item_type": "item",
+        "item_name": "Twilight lilac sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orI6V3sc4Rfm5B4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202047",
+        "item_type": "item",
+        "item_name": "Dark purple blue sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orM6V3sc_eTypD8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202048",
+        "item_type": "item",
+        "item_name": "Dark blue sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5orw6V3sczFrkFC0",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202049",
+        "item_type": "item",
+        "item_name": "Dark scarlet sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5or06V3scRPn48rY",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202050",
+        "item_type": "item",
+        "item_name": "Twilight azure sphere",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7Q6V3sctbKa-8g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202051",
+        "item_type": "item",
+        "item_name": "Fiery red asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7U6V3sc6JGNnRc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202052",
+        "item_type": "item",
+        "item_name": "Sand gray-brown asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7Y6V3scaZtyUQ8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202053",
+        "item_type": "item",
+        "item_name": "Golden-birch asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7c6V3scUCZqdkk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202054",
+        "item_type": "item",
+        "item_name": "Rich yellow-green asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7A6V3scQfxdWUY",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202055",
+        "item_type": "item",
+        "item_name": "Forest green asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7E6V3scUIcQfL4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202056",
+        "item_type": "item",
+        "item_name": "Green Crayola asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7I6V3sc9jSYOb0",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202057",
+        "item_type": "item",
+        "item_name": "Caribbean green asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7M6V3sc0-evRc8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202058",
+        "item_type": "item",
+        "item_name": "Pacific blue asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o7w6V3scAcExOkU",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202059",
+        "item_type": "item",
+        "item_name": "Georgian pink asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5o706V3scf_WGh08",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202060",
+        "item_type": "item",
+        "item_name": "Royal fuchsia asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5oLQ6V3scXUQ9wW4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202061",
+        "item_type": "item",
+        "item_name": "Blue-purple asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5oLU6V3scnsCy0Xc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202062",
+        "item_type": "item",
+        "item_name": "Deep purple asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5oLY6V3scc9ZG17M",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202063",
+        "item_type": "item",
+        "item_name": "Blue Sky asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5oLc6V3scwjVhQNk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202064",
+        "item_type": "item",
+        "item_name": "Turquoise asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5oLA6V3sc1Dv0s3s",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202065",
+        "item_type": "item",
+        "item_name": "Coal asteroid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5oLE6V3scltAgtFY",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212067",
+        "item_type": "item",
+        "item_name": "Black kitten #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5oLM6V3scx1zKJiU",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212068",
+        "item_type": "item",
+        "item_name": "Black kitten #2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5oLw6V3sc1N0GAss",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212069",
+        "item_type": "item",
+        "item_name": "Black kitten #3",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5oL06V3scHkwlNQk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212070",
+        "item_type": "item",
+        "item_name": "Black kitten #4",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obQ6V3scxrsXJ20",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212071",
+        "item_type": "item",
+        "item_name": "Black kitten #5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obU6V3scGOazBv0",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212072",
+        "item_type": "item",
+        "item_name": "Black kitten #6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obY6V3sc1mTchOA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212073",
+        "item_type": "item",
+        "item_name": "Black kitten #7",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obc6V3sc4C1fHVw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212074",
+        "item_type": "item",
+        "item_name": "Black kitten #8",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obA6V3scQW1s77w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212075",
+        "item_type": "item",
+        "item_name": "Grey kitten #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obE6V3scPcI8m9w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212076",
+        "item_type": "item",
+        "item_name": "Grey kitten #2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obI6V3sc5Olu5bs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212077",
+        "item_type": "item",
+        "item_name": "Grey kitten #3",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obM6V3sc4jlRZSE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212078",
+        "item_type": "item",
+        "item_name": "Grey kitten #4",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5obw6V3sccuXqqTY",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212079",
+        "item_type": "item",
+        "item_name": "Grey kitten #5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5ob06V3sceJn5TAc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212080",
+        "item_type": "item",
+        "item_name": "Grey kitten #6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrQ6V3scdqDEGsk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212081",
+        "item_type": "item",
+        "item_name": "Grey kitten #8",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrU6V3sc8DAzkQ8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212082",
+        "item_type": "item",
+        "item_name": "White kitten #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrY6V3scctprXkw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212083",
+        "item_type": "item",
+        "item_name": "White kitten #2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrc6V3scK-v6LMQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212084",
+        "item_type": "item",
+        "item_name": "White kitten #3",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrA6V3sc4w4xsGI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212085",
+        "item_type": "item",
+        "item_name": "White kitten #4",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrE6V3scejnvmvI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212086",
+        "item_type": "item",
+        "item_name": "White kitten #5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrI6V3sc4-XnROo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212087",
+        "item_type": "item",
+        "item_name": "White kitten #6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrM6V3sc1UnZos8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212088",
+        "item_type": "item",
+        "item_name": "White kitten #7",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rrw6V3scyap2aPA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212089",
+        "item_type": "item",
+        "item_name": "White kitten #8",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5rr06V3scycLHsjw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212090",
+        "item_type": "item",
+        "item_name": "Grey kitten #7",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7Q6V3scE3CfUxI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212091",
+        "item_type": "item",
+        "item_name": "Apple pie",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7U6V3sc8En_cgw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212092",
+        "item_type": "item",
+        "item_name": "Banana split",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7Y6V3sc7y2vKY4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212093",
+        "item_type": "item",
+        "item_name": "Cherry cake",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7c6V3scdspXy10",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212094",
+        "item_type": "item",
+        "item_name": "Cherry cakeslice",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7A6V3scO_nsj8s",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212095",
+        "item_type": "item",
+        "item_name": "Cherry confit",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7E6V3scHUrT9xA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212096",
+        "item_type": "item",
+        "item_name": "Cherry macaroon",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7I6V3sc6_pDz-w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212097",
+        "item_type": "item",
+        "item_name": "Сhocolate cookie",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7M6V3scBQLnmpo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212098",
+        "item_type": "item",
+        "item_name": "Сhocolate icecream",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r7w6V3sc58MiZv4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212099",
+        "item_type": "item",
+        "item_name": "Сhocolate macaroon",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP5r706V3sc32iMVfc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212100",
+        "item_type": "item",
+        "item_name": "Chocolate truffle",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prQ6V3scOX0sQmU",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212101",
+        "item_type": "item",
+        "item_name": "Funfetti cake",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prU6V3sc1fmW6JI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212102",
+        "item_type": "item",
+        "item_name": "Funfetti cakeslice",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prY6V3scsIkMxi0",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212103",
+        "item_type": "item",
+        "item_name": "Funfetti cookie",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prc6V3scUKAs5Fc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212104",
+        "item_type": "item",
+        "item_name": "Funfetti cupcake",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prA6V3scrapxmmo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212105",
+        "item_type": "item",
+        "item_name": "Funfetti icecream",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prE6V3scTAHSLAg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212106",
+        "item_type": "item",
+        "item_name": "Funfetti macaroon",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prI6V3scNQL4n0g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212107",
+        "item_type": "item",
+        "item_name": "Japanese pudding",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prM6V3scl_eLtdo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212108",
+        "item_type": "item",
+        "item_name": "Lemon cookie",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4prw6V3scNBoSKTk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212109",
+        "item_type": "item",
+        "item_name": "Lemon macaroon",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pr06V3scYN393ZQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212110",
+        "item_type": "item",
+        "item_name": "Lemon sorbet",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7Q6V3sciT6C3fU",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212111",
+        "item_type": "item",
+        "item_name": "Lemon tart",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7U6V3scTvM3yMk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212112",
+        "item_type": "item",
+        "item_name": "Lemon tartslice",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7Y6V3scAIn0zPs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212113",
+        "item_type": "item",
+        "item_name": "Raspberry chocolate",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7c6V3scg4dVO60",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212114",
+        "item_type": "item",
+        "item_name": "Raspberry cupcake",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7A6V3sclp6rHYg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212115",
+        "item_type": "item",
+        "item_name": "Raspberry fruit",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7E6V3sc5P038eE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212116",
+        "item_type": "item",
+        "item_name": "Strawberry cake",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7I6V3scd9_NCNs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212117",
+        "item_type": "item",
+        "item_name": "Strawberry cakeslice",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7M6V3scDn5RjIo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212118",
+        "item_type": "item",
+        "item_name": "Strawberry chocolate",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p7w6V3scUtNxF7A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212119",
+        "item_type": "item",
+        "item_name": "Strawberry cupcake",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4p706V3sc9uL02X4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212120",
+        "item_type": "item",
+        "item_name": "Strawberry",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLQ6V3scHQtgDAs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212121",
+        "item_type": "item",
+        "item_name": "Strawberry icecream",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLU6V3scNjykTM8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212122",
+        "item_type": "item",
+        "item_name": "Strawberry macaroon",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLY6V3sc47A9EX8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212124",
+        "item_type": "item",
+        "item_name": "Flag of Ukraine",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLA6V3scr2udr18",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212125",
+        "item_type": "item",
+        "item_name": "Flag of China",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLE6V3scJ6ygjI8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212126",
+        "item_type": "item",
+        "item_name": "Flag of China",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLI6V3scmT-xF90",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212127",
+        "item_type": "item",
+        "item_name": "Flag of Argentina",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLM6V3scvZ2_R78",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212128",
+        "item_type": "item",
+        "item_name": "Flag of Australia",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pLw6V3sc081sl1E",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212129",
+        "item_type": "item",
+        "item_name": "Flag of Austria",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pL06V3scBZub2hM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212130",
+        "item_type": "item",
+        "item_name": "Flag of Belgium",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbQ6V3scff45e70",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212131",
+        "item_type": "item",
+        "item_name": "Flag of Brazil",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbU6V3scm-Gm28w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212132",
+        "item_type": "item",
+        "item_name": "Flag of Canada",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbY6V3sc9qaj68s",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212133",
+        "item_type": "item",
+        "item_name": "Flag of Denmark",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbc6V3sclPuLNos",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212134",
+        "item_type": "item",
+        "item_name": "Flag of Finland",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbA6V3scP5zwabo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212135",
+        "item_type": "item",
+        "item_name": "Flag of France",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbE6V3scH-a_uRs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212136",
+        "item_type": "item",
+        "item_name": "Flag of Germany",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbI6V3scXCl7L34",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212137",
+        "item_type": "item",
+        "item_name": "Flag of Hong Kong",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbM6V3sc_j-BNH8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212138",
+        "item_type": "item",
+        "item_name": "Flag of Italy",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pbw6V3sccG2DOR0",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212139",
+        "item_type": "item",
+        "item_name": "Flag of Norway",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4pb06V3sc17ZPtDI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212140",
+        "item_type": "item",
+        "item_name": "Flag of Poland",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orQ6V3scfzizrbs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212141",
+        "item_type": "item",
+        "item_name": "Flag of Russia",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orU6V3scgPijmLQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212142",
+        "item_type": "item",
+        "item_name": "Flag of Spain",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orY6V3scJ8TpyLc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212143",
+        "item_type": "item",
+        "item_name": "Flag of Sweden",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orc6V3scnMNWkA4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212144",
+        "item_type": "item",
+        "item_name": "Flag of United Kingdom",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orA6V3sclOjMKzU",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212145",
+        "item_type": "item",
+        "item_name": "Flag of United States of America",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orE6V3sc27JrL1c",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212146",
+        "item_type": "item",
+        "item_name": "Flag of Turkey",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orI6V3sc3rl4OmA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212147",
+        "item_type": "item",
+        "item_name": "Pride flag",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orM6V3scy6NX-LU",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212148",
+        "item_type": "item",
+        "item_name": "Transgender flag",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4orw6V3scagWY6gM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212153",
+        "item_type": "item",
+        "item_name": "Smile — AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4o7c6V3sc91xZMtI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212154",
+        "item_type": "item",
+        "item_name": "Fear — AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4o7A6V3scGMfWjAQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212155",
+        "item_type": "item",
+        "item_name": "Sad — AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4o7E6V3sc-NhSpLg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212156",
+        "item_type": "item",
+        "item_name": "Bleh — AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4o7I6V3sccn7TKHM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212157",
+        "item_type": "item",
+        "item_name": "Sneer — AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4o7M6V3scob6zAbw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212158",
+        "item_type": "item",
+        "item_name": "Smirk — AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4o7w6V3scdDeC1Fc",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212159",
+        "item_type": "item",
+        "item_name": "Cute — AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4o706V3scKwGsmYo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212162",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oLY6V3sck_i_dBE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212163",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oLc6V3sc3-kLmBE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212164",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oLA6V3scblJDSNs",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212165",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oLE6V3scJyM3fO8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212166",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oLI6V3sc4uFTfos",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212167",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oLM6V3scFHXZyzE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212168",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oLw6V3scuxX_qoE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212169",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4oL06V3scRvvw590",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212170",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4obQ6V3scZqiLjys",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212171",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4obU6V3sc6naO6d8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212172",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4obY6V3scwEThEBQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212173",
+        "item_type": "item",
+        "item_name": "Nyan pako",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4obc6V3scZhWvzws",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212176",
+        "item_type": "item",
+        "item_name": "Cry — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4obI6V3scXs9hvQ8",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212177",
+        "item_type": "item",
+        "item_name": "Bored — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4obM6V3scudgp_XA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212178",
+        "item_type": "item",
+        "item_name": "Dizzy — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4obw6V3scpm2m-AM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212179",
+        "item_type": "item",
+        "item_name": "Cool — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4ob06V3scN-w9P6A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212180",
+        "item_type": "item",
+        "item_name": "Sleeping — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4rrQ6V3scHhrMyjE",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212181",
+        "item_type": "item",
+        "item_name": "Worried — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4rrU6V3scRMiIpYo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212182",
+        "item_type": "item",
+        "item_name": "Devil — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4rrY6V3sctgaU6KI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212183",
+        "item_type": "item",
+        "item_name": "Angel — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4rrc6V3scjDjnq1o",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212184",
+        "item_type": "item",
+        "item_name": "Angry — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4rrA6V3scjgkEJ8E",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212185",
+        "item_type": "item",
+        "item_name": "Kiss — AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4rrE6V3scDtGRico",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212195",
+        "item_type": "item",
+        "item_name": "DOGE",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4r7E6V3scRY1uesI",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212196",
+        "item_type": "item",
+        "item_name": "Rosaline",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4r7I6V3scrw1DDK4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212197",
+        "item_type": "item",
+        "item_name": "Sursurid",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4r7M6V3scHtfE-o4",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212198",
+        "item_type": "item",
+        "item_name": "Barakiel",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4r7w6V3sc6JP2I0w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212199",
+        "item_type": "item",
+        "item_name": "The World",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4r706V3scbSNgUSM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212200",
+        "item_type": "item",
+        "item_name": "Astro",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP7prQ6V3scBGws2wM",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212201",
+        "item_type": "item",
+        "item_name": "ANYWAY BETA v12.0 PASS",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP7prU6V3scb35cIDA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1000000100",
+        "item_type": "item",
+        "item_name": "AniPack#1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Shx_xH5prUkFzsLy4yTDpGQJg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1000000200",
+        "item_type": "item",
+        "item_name": "AniPack#2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Shx_xH5prYkFzsLy4wMkgSQQg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1000000500",
+        "item_type": "item",
+        "item_name": "AniPack#5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Shx_xH5prEkFzsLy4w0aBa2mQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1000000600",
+        "item_type": "item",
+        "item_name": "AniPack#6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Shx_xH5prIkFzsLy4ztG8AMBw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000000",
+        "item_type": "item",
+        "item_name": "Avatars Crate",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prQkFzsLy4wkNN04zw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000001",
+        "item_type": "item",
+        "item_name": "Crate Keycard",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prQkFjsLy4wjLeELDQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000100",
+        "item_type": "item",
+        "item_name": "Cats Crate",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prUkFzsLy4zFp1W8Pw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000400",
+        "item_type": "item",
+        "item_name": "Donut Pack",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkFzsLy4yebH7nmg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000402",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkFTsLy4zRoU8-ew",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000403",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkFDsLy4ze5ofvhQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000404",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkEzsLy4yc0u_Kxg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000405",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkEjsLy4ycO48RGw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000406",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkETsLy4yf084JKw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000407",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkEDsLy4wfhTDUGQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000408",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkHzsLy4z9l-ZepQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000409",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAkHjsLy4x1DjggSQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000410",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAlFzsLy4zAH02gXQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000411",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAlFjsLy4zUvTRdgw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000412",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAlFTsLy4yZhur9Vw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000413",
+        "item_type": "item",
+        "item_name": "Donut",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAlFDsLy4wXs8kMUQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000414",
+        "item_type": "item",
+        "item_name": "1st BattlePass Access",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAlEzsLy4zoVtRW1Q",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000475",
+        "item_type": "item",
+        "item_name": "Keiko | ★☆☆☆☆",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prAjEjsLy4xi3kRb3w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000513",
+        "item_type": "item",
+        "item_name": "Monthly Сard",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prElFDsLy4x4cpPwIA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000558",
+        "item_type": "item",
+        "item_name": "Halloween Crate 2022",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prEhHzsLy4xHvwIoWA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000670",
+        "item_type": "item",
+        "item_name": "Random AniPack Test",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prIjFzsLy4xSjDXQaw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000816",
+        "item_type": "item",
+        "item_name": "Capybara Background",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwlETsLy4zJ9aM1pA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000829",
+        "item_type": "item",
+        "item_name": "AnyWay - Challenge #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwmHjsLy4xv-kwpKw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000831",
+        "item_type": "item",
+        "item_name": "AnyWay - Echo Echelon",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnFjsLy4y391PZ9A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000851",
+        "item_type": "item",
+        "item_name": "Anniversary Ticket Rev.1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwhFjsLy4z5-ZWfsQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000852",
+        "item_type": "item",
+        "item_name": "Anniversary Ticket Rev.2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwhFTsLy4wE8XQi9Q",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000874",
+        "item_type": "item",
+        "item_name": "AnyWay - Summer beach",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjEzsLy4wZCmcesg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000876",
+        "item_type": "item",
+        "item_name": "AnyWay - Rose Water",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwjETsLy4xUQ-KmEA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "5",
+        "item_type": "promo",
+        "item_name": "AnyWay! - Soundtrack Owner!",
+        "icon": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxH5rd9eCMg9xvuc8DCMgac8dHMOn8uFwLettlqEkIFEjWRLOsh8vWAwotIVVRt-ygf1Qz1aDNKTgXu4vhw87azqWkK-qBzjsf4tV21f2cpNmm2Abm80NpYovqisP6",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202005",
+        "item_type": "item",
+        "item_name": "Rainbow Star",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA4KnaSg5mGdt-w_g",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20202017",
+        "item_type": "promo",
+        "item_name": "CUPCAKE",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA5KHaSg5lqC5oyZA",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20202018",
+        "item_type": "promo",
+        "item_name": "THANK U",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA5J3aSg5mQ4Nja5Q",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20202019",
+        "item_type": "promo",
+        "item_name": "UWU",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA5JnaSg5larppGwg",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20202020",
+        "item_type": "promo",
+        "item_name": "Ducky Duck",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA6L3aSg5lFVhq2sg",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20202021",
+        "item_type": "promo",
+        "item_name": "Lucky coin",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA6LnaSg5k5RtUK0A",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20202031",
+        "item_type": "item",
+        "item_name": "Potion of Heroes",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA7LnaSg5kvv1RnLQ",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20202032",
+        "item_type": "item",
+        "item_name": "Almighty Ascension Crystal",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcABlyA7LXaSg5lu42wOUA",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212152",
+        "item_type": "item",
+        "item_name": "Hourglass",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb59zcAAlyE9LXaSg5nzUgDnyg",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212161",
+        "item_type": "item",
+        "item_name": "Runner Grey kitten #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyE-LnaSg5mMyBVmdw",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212175",
+        "item_type": "item",
+        "item_name": "Niksan",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyE_KnaSg5khGAazVg",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212187",
+        "item_type": "item",
+        "item_name": "Anime Avatar #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyEwKHaSg5nWgehNNg",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212188",
+        "item_type": "item",
+        "item_name": "Anime Avatar #2",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyEwJ3aSg5kW5RGIgQ",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212189",
+        "item_type": "item",
+        "item_name": "Anime Avatar #3",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyEwJnaSg5nv_xlctA",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212190",
+        "item_type": "item",
+        "item_name": "Anime Avatar #4",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyExL3aSg5nB54l3OA",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212191",
+        "item_type": "item",
+        "item_name": "Anime Avatar #5",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyExLnaSg5lDCCWyuQ",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212192",
+        "item_type": "item",
+        "item_name": "Anime Avatar #6",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyExLXaSg5mt7YsXiw",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "20212193",
+        "item_type": "item",
+        "item_name": "Anime Avatar #7",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL59zcAAlyExLHaSg5lbO-jB7w",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000419",
+        "item_type": "item",
+        "item_name": "Portal",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb5-zMIBlSA4K2nMxJg7SEnUNeZb",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000599",
+        "item_type": "item",
+        "item_name": "Anime Avatar #9 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KmHMxJg7SIS7zD8v",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000600",
+        "item_type": "item",
+        "item_name": "Anime Avatar #10 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KWjFxJg7SO47aCe9",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000601",
+        "item_type": "item",
+        "item_name": "Anime Avatar #11 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KWjExJg7SP6r23LE",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000602",
+        "item_type": "item",
+        "item_name": "Anime Avatar #12 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KWjHxJg7SCIqyvp-",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000603",
+        "item_type": "item",
+        "item_name": "Anime Avatar #13 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KWjGxJg7SHgxk3Zh",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000604",
+        "item_type": "item",
+        "item_name": "Anime Avatar #14 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KWjBxJg7SBzSGLeU",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000605",
+        "item_type": "item",
+        "item_name": "Anime Avatar #15 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KWjAxJg7SHWZoPQx",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000609",
+        "item_type": "item",
+        "item_name": "Runner Grey kitten #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4bldhUnL5-zMIBlSA4KWjMxJg7SHcWzgix",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000853",
+        "item_type": "item",
+        "item_name": "Ratso Capybara",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb5-zMIBlSA4J23GxJg7SL2J4umn",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "1100000854",
+        "item_type": "item",
+        "item_name": "Capybara",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb5-zMIBlSA4J23BxJg7SEZ1UJDC",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "2019",
+        "item_type": "item",
+        "item_name": "5 тыщ",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihw9g-5-OMpM2QkHw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000598",
+        "item_type": "item",
+        "item_name": "Anime Avatar #8 (Holo)",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDo6y4JFyZGOAvdUGbfQTW90JCNDi6rEd_4Emctflb5-zMIBlSA4KmHNxJg7SCxQ7aMc",
+        "gml_animated": true
+    },
+    {
+        "itemdefid": "2000",
+        "item_type": "item",
+        "item_name": "Christmas Wreath",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsYhpWFAZq2ffuk",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2025",
+        "item_type": "item",
+        "item_name": "del",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldkdhpWFAasuh9Ob",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2001",
+        "item_type": "item",
+        "item_name": "Snow Globe",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsZhpWFAd1HF91k",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2002",
+        "item_type": "item",
+        "item_name": "Christmas Tree",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsahpWFAZMOWs7v",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2003",
+        "item_type": "item",
+        "item_name": "Christmas Ornament",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsbhpWFARYSxl5X",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2004",
+        "item_type": "item",
+        "item_name": "Candy cane",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldschpWFAXriqVk2",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2005",
+        "item_type": "item",
+        "item_name": "Christmas hat",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsdhpWFAZ64sxXb",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2006",
+        "item_type": "item",
+        "item_name": "Christmas green giftbox",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsehpWFAUzvXT2S",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2007",
+        "item_type": "item",
+        "item_name": "Christmas red giftbox",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsfhpWFAYHyGWnj",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2009",
+        "item_type": "item",
+        "item_name": "Christmas snowflake",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsRhpWFAdOMzkMO",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2010",
+        "item_type": "item",
+        "item_name": "Christmas star",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldoYhpWFAbIbME1z",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2011",
+        "item_type": "item",
+        "item_name": "Christmas Mistletoe",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldoZhpWFAbHEhLwz",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2012",
+        "item_type": "item",
+        "item_name": "Christmas tree",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldoahpWFAZEeKxEn",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20212186",
+        "item_type": "item",
+        "item_name": "Flag of Kazakhstan",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_hP4rrI6V3sckDniTzQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000003",
+        "item_type": "item",
+        "item_name": "Surprise Box",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prQkFDsLy4zUESxG3w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000895",
+        "item_type": "item",
+        "item_name": "Collection Book",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtEjsLy4xuGFPn1g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2008",
+        "item_type": "item",
+        "item_name": "Deleted Christmas green giftbox",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldsQhpWFAeU6JhMb",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2024",
+        "item_type": "item",
+        "item_name": "del",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldkchpWFAdGEVifV",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2023",
+        "item_type": "item",
+        "item_name": "del",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldkbhpWFAS4v5EEz",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2022",
+        "item_type": "item",
+        "item_name": "del",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldkahpWFATknJ_qo",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2021",
+        "item_type": "item",
+        "item_name": "del",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldkZhpWFAS_lxV35",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "2020",
+        "item_type": "item",
+        "item_name": "del",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AVw8U1ceUrLu5SvHIzEyDuRC1E_ZrIYn7ACB3YtnE1tg6A4uF5VDpJldkYhpWFAWnV4hPV",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "20202015",
+        "item_type": "item",
+        "item_name": "Hi",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6ihz_xP5p7E6V3sckX9xOYg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000832",
+        "item_type": "item",
+        "item_name": "Halloween Crate 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwnFTsLy4x0FLmRPQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000897",
+        "item_type": "item",
+        "item_name": "AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtEDsLy4znMx5p0g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000899",
+        "item_type": "item",
+        "item_name": "Corgi — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prwtHjsLy4wKM3oJmw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000900",
+        "item_type": "item",
+        "item_name": "Tennis Ball — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kFzsLy4zy_Gkc3A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000901",
+        "item_type": "item",
+        "item_name": "Bone — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kFjsLy4xrvtW52A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000902",
+        "item_type": "item",
+        "item_name": "Sweater — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kFTsLy4wgWDedRg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000903",
+        "item_type": "item",
+        "item_name": "Beach Ball — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kFDsLy4w8LxmEDQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000904",
+        "item_type": "item",
+        "item_name": "Relax — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kEzsLy4zJEaxCYA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000905",
+        "item_type": "item",
+        "item_name": "Box — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kEjsLy4x_0pkotg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000906",
+        "item_type": "item",
+        "item_name": "Meditation — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kETsLy4yUksuHIw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000907",
+        "item_type": "item",
+        "item_name": "Back — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kEDsLy4zG3ch1NQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000908",
+        "item_type": "item",
+        "item_name": "Sock — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kHzsLy4xmrF6wtg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000909",
+        "item_type": "item",
+        "item_name": "Laptop — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0kHjsLy4yG9U1-lg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000910",
+        "item_type": "item",
+        "item_name": "Corgi in a blanket — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lFzsLy4zmAyKBTw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000911",
+        "item_type": "item",
+        "item_name": "Love — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lFjsLy4yhvhcSKg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000912",
+        "item_type": "item",
+        "item_name": "Sunglasses — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lFTsLy4wYKy4Jnw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000913",
+        "item_type": "item",
+        "item_name": "Look back — AniPack#17",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lFDsLy4zOiw85vQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000916",
+        "item_type": "item",
+        "item_name": "Hi — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lETsLy4zzgoAv3A",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000917",
+        "item_type": "item",
+        "item_name": "Grimace — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lEDsLy4xoyP_C4w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000918",
+        "item_type": "item",
+        "item_name": "Scared — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lHzsLy4xm79M43g",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000919",
+        "item_type": "item",
+        "item_name": "Battle Stance — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lHjsLy4ybm_RRkQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000920",
+        "item_type": "item",
+        "item_name": "Shy — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFzsLy4wnxVrjHQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000921",
+        "item_type": "item",
+        "item_name": "Angry — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFjsLy4zx32f0uw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000922",
+        "item_type": "item",
+        "item_name": "Hot-Tempered — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFTsLy4zMiN8Nkw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000923",
+        "item_type": "item",
+        "item_name": "Eating — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mFDsLy4xc2Kxrng",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000924",
+        "item_type": "item",
+        "item_name": "Evil Plans — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mEzsLy4w9jBgUUQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000925",
+        "item_type": "item",
+        "item_name": "Like — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mEjsLy4z19GuLeA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000926",
+        "item_type": "item",
+        "item_name": "Sad — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mETsLy4zrFChAQg",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000927",
+        "item_type": "item",
+        "item_name": "Smirk — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mEDsLy4xtEsIFzQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000928",
+        "item_type": "item",
+        "item_name": "Love — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mHzsLy4yljI9ISA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000929",
+        "item_type": "item",
+        "item_name": "Cool Face — AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0mHjsLy4z1l_NOdw",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000914",
+        "item_type": "item",
+        "item_name": "AniPack#18",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0lEzsLy4zm1wkOqQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1000000300",
+        "item_type": "item",
+        "item_name": "Random AniPack",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Shx_xH5prckFzsLy4y43ASCwQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000756",
+        "item_type": "item",
+        "item_name": "Ticket Supply 2024",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prMhETsLy4xKGnzUNQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000930",
+        "item_type": "item",
+        "item_name": "Ticket Supply 2025",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0nFzsLy4zhLbyD4w",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000642",
+        "item_type": "item",
+        "item_name": "Ticket Supply 2023",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5prIgFTsLy4y8SKzDrQ",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000931",
+        "item_type": "item",
+        "item_name": "CB - Background #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0nFjsLy4ytTM-0tA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000932",
+        "item_type": "item",
+        "item_name": "CB - Mini Background #1",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0nFTsLy4yvupbrCA",
+        "gml_animated": false
+    },
+    {
+        "itemdefid": "1100000933",
+        "item_type": "item",
+        "item_name": "Vinyl | SystemOnline",
+        "icon": "IsbalNkwkZVhANMs-ZckfpOUh5NBCNmUeGe9TAbELaPX4m6uYyRMX9Aw8oquK2AV3ME6bOUQP-pXonIdHSTtHhBZ7IKKBEnKCAOC6Slx_xH5pr0nFDsLy4xK2CGYUg",
+        "gml_animated": false
+    }
+]
